@@ -69,11 +69,11 @@ public class TestOzon extends TestBase {
     @DisplayName("Добавление товара в корзину")
     void testItemCart() {
 
-        step("Открыть c товаром", () -> {
+        step("Открыть карточку c товаром", () -> {
             open(baseUrl +
                     "product/derevyannyy-pazl-mayllo-koshka-28h33-sm-200-detaley-podarok-rebenku-podarok-zhenshchine-397581464/?sh=txD9WOl_qQ");
         });
-        step("Нвжвть на кнопку Добавить в корзину", () -> {
+        step("Нажать на кнопку Добавить в корзину", () -> {
             $("[data-widget=webAddToCart]").click();
         });
         step("Перейти в корзину", () -> {
