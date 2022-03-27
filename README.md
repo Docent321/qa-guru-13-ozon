@@ -50,13 +50,11 @@ clean
 test
 -Duser=${USER}
 -Dpassword=${PASSWORD}
--Dbrowser=${BROWSER}
 -DremoteBrowser=${REMOTE_BROWSER}
+-Dbrowser=${BROWSER}
+-Dsize=${BROUSERSIZE}
 -Dversion=${VERSION}
--Dsize=${BROWSER_SIZE}
--Dthreads=${THREADS}
 ```
-Исправить
 
 ## :open_book: Allure отчет
 - ### Главный экран отчета
