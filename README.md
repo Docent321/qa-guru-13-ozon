@@ -7,11 +7,9 @@
 - <a href="#printer-реализованные-проверки">Реализованные проверки</a>
 - <a href="#electric_plug-сборка-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#desktop_computer-запуск-из-терминала">Запуск из терминала</a>
-- <a href="#shinto_shrine-allure-отчет">Allure отчет</a>
-- <a href="#shinto_shrine-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
-- <a href="#shinto_shrine-интеграция-с-jira">Интеграция с Jira</a>
-- <a href="#shinto_shrine-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#shinto_shrine-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
+- <a href="#open_book-allure-отчет">Allure отчет</a>
+- <a href="#robot-отчет-в-telegram">Отчет в Telegram</a>
+- <a href="#film_projector-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :computer: Технологии и инструменты
 <p align="center">
@@ -59,3 +57,25 @@ test
 -Dthreads=${THREADS}
 ```
 Исправить
+
+## :open_book: Allure отчет
+- ### Главный экран отчета
+<p align="center">
+<img title="Allure Overview Dashboard" src="images/screenshots/allure-main-page.png">
+</p>
+
+- ### Страница с проведенными тестами
+<p align="center">
+<img title="Allure Test Page" src="images/screenshots/allure-test-page.png">
+</p>
+
+## :robot: Отчет в Telegram
+<p align="center">
+<img title="Telegram notification message" src="images/screenshots/telegram-notification.png">
+</p>
+
+## :film_projector: Видео примеры прохождения тестов
+> К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
+<p align="center">
+  <img title="Selenoid Video" src="images/gif/test-run.gif">
+</p>
