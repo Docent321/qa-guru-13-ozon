@@ -71,7 +71,7 @@ test
 
 ## :robot: Отчет в Telegram
 <p align="center">
-<img title="Telegram notification message" src="images/screenshots/telegram-notification.png">
+<img title="Telegram notification message" src="images/screenshots/telegram-bot.png">
 </p>
 
 ## :film_projector: Видео примеры прохождения тестов
