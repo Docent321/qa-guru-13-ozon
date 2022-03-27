@@ -4,9 +4,9 @@
 ## :floppy_disk: Содержание:
 
 - <a href="#computer-технологии-и-инструменты">Технологии и инструменты</a>
-- <a href="#printer-реализованные-проверки">Реализованные проверки</a>
+- <a href="#notebook_with_decorative_cover-реализованные-проверки">Реализованные проверки</a>
 - <a href="#electric_plug-сборка-в-Jenkins">Сборка в Jenkins</a>
-- <a href="#desktop_computer-запуск-из-терминала">Запуск из терминала</a>
+- <a href="#arrow_forward-запуск-из-терминала">Запуск из терминала</a>
 - <a href="#open_book-allure-отчет">Allure отчет</a>
 - <a href="#robot-отчет-в-telegram">Отчет в Telegram</a>
 - <a href="#film_projector-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
@@ -25,7 +25,7 @@
 <img width="6%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
-## :printer: Реализованные проверки
+## :notebook_with_decorative_cover: Реализованные проверки
 - Проверка наличия надписи Ozon
 - Переход по каталогу в раздел Смартфоны
 - Проверка поиска
@@ -38,7 +38,7 @@
 <img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
 </p>  
 
-## :desktop_computer: Запуск из терминала
+## :arrow_forward: Запуск из терминала
 Локальный запуск:
 ```
 gradle clean test
