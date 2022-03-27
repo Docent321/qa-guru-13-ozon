@@ -1,5 +1,5 @@
 # Проект по автоматизации тестирования интернет-магазина Ozon
-## <a target="_blank" href="https://www.ozon.ru/">Веб сайт Acron</a>
+## <a target="_blank" href="https://www.ozon.ru/">Веб сайт Ozon</a>
 
 ## :floppy_disk: Содержание:
 
