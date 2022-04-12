@@ -60,7 +60,7 @@ public class TestOzon extends TestBase {
             $("[href='/brand/xiaomi-32686750/']").click();
         });
         step("Проверить что нахожусь на странице бренда Xiaomi", () -> {
-            $("[data-widget=meta]").shouldHave(text("Xiaomi"));
+            $("[data-widget=meta]").shouldHave(text("Xiaomi MI MAX"));
         });
     }
 
